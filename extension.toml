@@ -1,0 +1,11 @@
+id = "razor"
+name = "Razor"
+description = "Basic Razor syntax highlighting for Zed."
+version = "0.0.1"
+schema_version = 1
+authors = ["Sacha"]
+repository = "https://github.com/ton-user/zed-razor"
+
+[grammars.razor]
+repository = "https://github.com/tris203/tree-sitter-razor"
+commit = "PUT_A_COMMIT_SHA_HERE"
